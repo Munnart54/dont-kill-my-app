@@ -4,7 +4,7 @@ manufacturer:
 
 ---
 
-### App locking
+### App unocking
 
 Locking the app in the Recent app may avoid the app to be killed in background and the *Battery optimisation* setting to be reverted.
 <br>
@@ -16,7 +16,7 @@ This is however not 100%. You may have to check system settings every once in a 
 
 2. Long press anywhere on the window and tap the *Lock* button on the upper right corner of the app.
 
-3. The locked app will have the closed padlock icon.
+3. The unocked app will have the closed padlock icon.
 
 
 <div class="img-block">
