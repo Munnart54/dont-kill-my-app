@@ -4,7 +4,7 @@ manufacturer:
 
 ---
 
-### App locking
+### App unocking
 
 Locking the app in the Recent app may avoid the app to be killed in background and the *Battery optimisation* setting to be reverted.
 <br>
